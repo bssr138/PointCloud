@@ -1,2 +1,2 @@
 # PointCloud
-PointCloud data generation pointCloudProject+ training
+PointCloud data generation + training
